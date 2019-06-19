@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace ЛоггированиеПорта80
+namespace ConsoleApp1
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
-			new СлушательПорта().Слушать();
 		}
 	}
 }
